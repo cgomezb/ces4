@@ -6,3 +6,7 @@ https://docs.google.com/presentation/d/1TqLa1-CbNVQR9r0xtVZfdzC4nYBC9HuWtFe8fawZ
 
 Lista de Estudiantes
 https://docs.google.com/spreadsheets/d/1bDz3EiN8hQDfPibUZeTjGecfSFcb0BEXWAFjVamZrnI/edit?usp=sharing
+
+February 20th
+Minimum Viable Product
+http://joeagile.com/images/posts/2015-01-23-mvp.gif
