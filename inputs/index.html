@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Page Title</title>
+  <script src="inputs.js"></script>
+</head>
+
+<body>
+  <p>
+    <b>Controls</b>
+  </p>
+
+  <form>
+    <p>
+      <b>Text</b>
+    </p>
+    <span>Name:</span>
+    <input type="text" id="name" name="name" placeholder="Name" onchange="showTextboxValue()">
+    <br>
+    <p id="result_name"></p>
+    <br>
+    <hr>
+
+    <p>
+      <b>Checkbox</b>
+    </p>
+    <span>Is approved?</span>
+    <input type="checkbox" id="approved" onchange="showCheckboxValue()">
+    <br>
+    <p id="result_approved"></p>
+    <br>
+    <hr>
+
+    <p>
+      <b>Radio</b>
+    </p>
+    <input type="radio" name="gender" value="male" onchange="showRadioValue()"> Male
+    <br>
+    <input type="radio" name="gender" value="female" onchange="showRadioValue()"> Female
+    <br>
+    <br>
+    <p id="result_gender"></p>
+    <br>
+    <hr>
+
+    <p>
+      <b>Select</b>
+    </p>
+    <select id="languages" onchange="showSelectValue()">
+      <option value="0">... Select ...</option>
+      <option value="1">English</option>
+      <option value="2">French</option>
+      <option value="3">Spanish</option>
+      <option value="4">Italian</option>
+    </select>
+    <br>
+    <p id="result_languages"></p>
+    <br>
+    <hr>
+
+    <p>
+      <b>Button</b>
+    </p>
+    <input type="button" value="Show" onclick="show()">
+    <input type="reset" value="Reset">
+  </form>
+
+  <p id="result"></p>
+</body>
+
+</html>
