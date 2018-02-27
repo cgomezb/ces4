@@ -16,3 +16,6 @@ http://www.restapitutorial.com
 
 FireBase
 https://firebase.google.com
+
+Javascript Exercise
+https://www.w3schools.com/js/js_quiz.asp
