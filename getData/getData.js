@@ -4,7 +4,8 @@ function loadData() {
 }
 
 function loadDataFromFireBase() {
-  const url = 'https://randomuser-me.firebaseio.com/authors.json';
+  const mysite = 'yourSite';
+  const url = `https://${mysite}.firebaseio.com/authors.json`;
   getData(url);
 }
 
@@ -32,7 +33,8 @@ function getData(url) {
 }
 
 function postData() {
-  const url = 'https://randomuser-me.firebaseio.com/authors/results/0/name.json';
+  const mysite = 'yourSite';
+  const url = `https://${mysite}.firebaseio.com/authors/results/0/name.json`;
 
   let data = {
     first: 'Sara',
