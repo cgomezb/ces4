@@ -1,28 +1,34 @@
-# ces4
-Construcción de Elementos de Software
+# Construcción de Elementos de Software 4
 
-JavaScript
-https://docs.google.com/presentation/d/1TqLa1-CbNVQR9r0xtVZfdzC4nYBC9HuWtFe8fawZUmE/edit?usp=sharing
+# Febrero 28 de 2018
 
-Lista de Estudiantes
-https://docs.google.com/spreadsheets/d/1bDz3EiN8hQDfPibUZeTjGecfSFcb0BEXWAFjVamZrnI/edit?usp=sharing
+Ejercicio (Actividad para trabajar cada uno en casa - Revisión de la solución Marzo 6 de 2018)
 
-February 20th
-Minimum Viable Product
-http://joeagile.com/images/posts/2015-01-23-mvp.gif
+1. Definir una clase de su preferencia con minimo 5 propiedades
 
-REST API
-http://www.restapitutorial.com
+	Ejemplo: MeetingRoom(id, name, capacity, location, lastCleanUpDate)
+			    (1, 'Room t', 10, 'First Floor','2017-12-01')
+			    
+2. Crear un json con la estructura correspondiente que soporte la clase anteriormente creada con 10 registros
+3. Almacenar en firebase el objeto json definido en el punto anterior
+4. Crear un archivo html que permita consultar los 10 registros a traves de un boton en pantalla
+5. Mostrar los registros obtenidos en pantalla
+6. Agregar un link por cada registro mostrado en pantalla
 
-FireBase
-https://firebase.google.com
+	Ejemplo:	Id	Name	Capacity	Location	Last Clean Up Date	Action
+			1	Room t	10		First Floor	2017-12-01		(Edit)
 
-Javascript Exercise
-https://www.w3schools.com/js/js_quiz.asp
+7. Al presionar el link (Edit) mostrar debajo de la lista un formulario con la información
+8. El formulario debe permitir la edición de la información
+9. Agregar un botón (Enviar) que:
+	- Actualice el registro seleccionado (Contra Firebase)
+	- Oculte el formulario de edición
+	- Muestre en pantalla la lista actualizada
+
 
 ------------------------------------------------------------------
 
-Febrero 27 de 2018
+# Febrero 27 de 2018
 
 Practica Javascript + Firebase
 
@@ -56,4 +62,25 @@ Practica Javascript + Firebase
 	- Validar que la información haya sido cambiada
 
 
-To be continued...
+------------------------------------------------------------------
+
+# References
+
+JavaScript
+https://docs.google.com/presentation/d/1TqLa1-CbNVQR9r0xtVZfdzC4nYBC9HuWtFe8fawZUmE/edit?usp=sharing
+
+Lista de Estudiantes
+https://docs.google.com/spreadsheets/d/1bDz3EiN8hQDfPibUZeTjGecfSFcb0BEXWAFjVamZrnI/edit?usp=sharing
+
+February 20th
+Minimum Viable Product
+http://joeagile.com/images/posts/2015-01-23-mvp.gif
+
+REST API
+http://www.restapitutorial.com
+
+FireBase
+https://firebase.google.com
+
+Javascript Exercise
+https://www.w3schools.com/js/js_quiz.asp
