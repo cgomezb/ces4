@@ -1,8 +1,9 @@
 # Construcción de Elementos de Software 4
 
-# Febrero 28 de 2018 (Clase Marzo 1 de 2018)
+# Febrero 28 de 2018 
+(Clase Marzo 1 de 2018 - Actividad para trabajar cada uno en casa - Revisión de la solución Marzo 6 de 2018)
 
-Ejercicio (Actividad para trabajar cada uno en casa - Revisión de la solución Marzo 6 de 2018)
+Ejercicio
 
 1. Definir una clase de su preferencia con minimo 5 propiedades (Ver Ejemplo)    
 2. Crear un json con la estructura correspondiente que soporte la clase anteriormente creada con 10 registros
