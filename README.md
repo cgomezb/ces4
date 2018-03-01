@@ -1,6 +1,6 @@
 # Construcción de Elementos de Software 4
 
-# Febrero 28 de 2018
+# Febrero 28 de 2018 (Clase Marzo 1 de 2018)
 
 Ejercicio (Actividad para trabajar cada uno en casa - Revisión de la solución Marzo 6 de 2018)
 
