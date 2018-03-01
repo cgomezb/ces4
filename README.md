@@ -4,26 +4,25 @@
 
 Ejercicio (Actividad para trabajar cada uno en casa - Revisión de la solución Marzo 6 de 2018)
 
-1. Definir una clase de su preferencia con minimo 5 propiedades
-
-	Ejemplo: MeetingRoom(id, name, capacity, location, lastCleanUpDate)
-			    (1, 'Room t', 10, 'First Floor','2017-12-01')
-			    
+1. Definir una clase de su preferencia con minimo 5 propiedades (Ver Ejemplo)    
 2. Crear un json con la estructura correspondiente que soporte la clase anteriormente creada con 10 registros
 3. Almacenar en firebase el objeto json definido en el punto anterior
 4. Crear un archivo html que permita consultar los 10 registros a traves de un boton en pantalla
 5. Mostrar los registros obtenidos en pantalla
-6. Agregar un link por cada registro mostrado en pantalla
-
-	Ejemplo:	Id	Name	Capacity	Location	Last Clean Up Date	Action
-			1	Room t	10		First Floor	2017-12-01		(Edit)
-
+6. Agregar un link por cada registro mostrado en pantalla (Ver Ejemplo)
 7. Al presionar el link (Edit) mostrar debajo de la lista un formulario con la información
 8. El formulario debe permitir la edición de la información
 9. Agregar un botón (Enviar) que:
 	- Actualice el registro seleccionado (Contra Firebase)
 	- Oculte el formulario de edición
 	- Muestre en pantalla la lista actualizada
+
+
+Ejemplo
+
+Id | Name | Capacity | Location | Last Clean Up Date | Action
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+1 | Room One | 12 | First Floor | 2018-01-01 | (Edit)
 
 
 ------------------------------------------------------------------
