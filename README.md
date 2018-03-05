@@ -85,7 +85,13 @@ https://firebase.google.com
 Javascript Exercise
 https://www.w3schools.com/js/js_quiz.asp
 
-online IDE for web applications
+TypeScript
+https://www.typescriptlang.org/
+
+ES6
+http://es6-features.org/
+
+Online IDE for web applications
 https://stackblitz.com/
 
 AngularJS
