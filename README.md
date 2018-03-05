@@ -84,3 +84,12 @@ https://firebase.google.com
 
 Javascript Exercise
 https://www.w3schools.com/js/js_quiz.asp
+
+online IDE for web applications
+https://stackblitz.com/
+
+AngularJS
+https://stackblitz.com/edit/angularjs
+
+Angular 2+
+https://stackblitz.com/edit/angular-b86rbi
