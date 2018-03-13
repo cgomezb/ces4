@@ -1,5 +1,39 @@
 # Construcción de Elementos de Software 4
 
+# Marzo 13 de 2018
+
+Exercice
+
+1. Crear una pagina web con la siguiente información:
+
+Http Response Status Code
+
+Status 	| 	Message					|	Link
+200 	|	OK						|   Show
+201 	|	No content				|   Show
+400 	|	Bad Request				|   Show
+401 	|	Unauthorized			|   Show
+403 	|	Forbidden				|   Show
+404 	|	Not Found				|   Show
+500 	|	Internal Server Error	|   Show
+501 	|	Not Implemented			|   Show
+
+2. Obtener la información desde Firebase
+3. Mostrar la lista al ingresar en la página web
+4. Crear y ejecutar un servidor de node js en el puerto 3030
+5. Al ingresar al localhost en el puerto dado desplegar la lista del punto 1
+6. Al presionar el link Show se debe navegar a una nueva página web en donde:
+	- Se mostrará como titulo el Status Code seleccionado
+	- Se mostrará la descripción del Status Code seleccionado
+	- Se mostrará un botón "back" que permitirá regresar a la lista
+
+
+Exercice
+
+1. Investigar como funciona node js y socket io
+2. Implementar un ejemplo a partir de la información obtenida
+
+
 # Marzo 08 de 2018 
 
 Node JS
@@ -125,3 +159,6 @@ https://stackblitz.com/edit/angularjs
 
 Angular 2+
 https://stackblitz.com/edit/angular-b86rbi
+
+Node JS
+https://socket.io/get-started/chat/
