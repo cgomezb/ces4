@@ -1,5 +1,31 @@
 # Construcción de Elementos de Software 4
 
+# Marzo 08 de 2018 
+
+Node JS
+
+Presentation: https://docs.google.com/presentation/d/1ICSp2BxrjKVJZTLvJxykJT-7u9sErTNB7pfxxX4EpTk/edit?usp=sharing
+
+Exercices
+
+1. Install Node JS (https://nodejs.org/en/)
+2. Download nodejs folder (ces4/nodejs)
+3. Open nodejs folder using an editor (https://code.visualstudio.com/)
+4. Open the command line
+5. Execute each file (node namefile.js)
+
+List files:
+- demo_http.js
+- demo_http_url.js
+- demo_querystring.js
+- demo_readfile.js
+- demo_renamefile.js
+- demo_urlparse.js
+- demo_fileserver.js
+- demo_readfile_append.js
+- demo_deletefile.js
+
+
 # Febrero 28 de 2018 
 (Clase Marzo 1 de 2018 - Actividad para trabajar cada uno en casa - Revisión de la solución Marzo 6 de 2018)
 
