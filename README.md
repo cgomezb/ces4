@@ -8,15 +8,16 @@ Exercice
 
 Http Response Status Code
 
-Status 	| 	Message					|	Link
-200 	|	OK						|   Show
-201 	|	No content				|   Show
-400 	|	Bad Request				|   Show
-401 	|	Unauthorized			|   Show
-403 	|	Forbidden				|   Show
-404 	|	Not Found				|   Show
-500 	|	Internal Server Error	|   Show
-501 	|	Not Implemented			|   Show
+Status | Message | Link 
+------------ | ------------- | ------------- 
+200 | OK | Show
+201 | No content | Show
+400 | Bad Request | Show
+401 | Unauthorized | Show
+403 | Forbidden	| Show
+404 | Not Found	| Show
+500 | Internal Server Error | Show
+501 | Not Implemented | Show
 
 2. Obtener la información desde Firebase
 3. Mostrar la lista al ingresar en la página web
