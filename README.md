@@ -1,8 +1,33 @@
 # Construcción de Elementos de Software 4
 
+# Abril 3 de 2018
+
+Angular JS
+
+Pagina de referencia: https://angularjs.org/
+
+Tutorial: https://www.w3schools.com/angular/default.asp
+
+Articulo: https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-e1cb62fd526c
+
+Practica: Angular JS
+
+Crear un Single Page App (SPA) usando Angular JS teniendo en cuenta las siguientes consideraciones:
+
+1. Crear un modulo principal.
+2. Crear dos componentes (Componente Lista, Componente detalle).
+3. Crear un servicio para la obtención de datos a partir de un endpoint determinado.
+4. Crear un archivo en donde se defina el enrutamiento de la aplicación.
+5. Crear una directiva.
+6. Usar por los menos 5 filtros en la aplicación.
+
+
+Fecha de entrega: Abril 3 de 2018 (8:00 a.m)
+
+
 # Marzo 13 de 2018
 
-Exercice
+Ejercicio
 
 1. Crear una pagina web con la siguiente información:
 
