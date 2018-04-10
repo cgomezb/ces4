@@ -1,5 +1,25 @@
 # Construcción de Elementos de Software 4
 
+# Abril 10 de 2018
+
+ES6
+
+Tutoriales:
+
+- https://webapplog.com/es6/
+- http://es6-features.org/#Constants
+
+
+TypeScript
+
+Tutoriales: 
+
+- https://www.tutorialspoint.com/typescript/typescript_overview.htm
+- https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes
+- https://hackr.io/tutorials/learn-typescript
+
+
+
 # Abril 3 de 2018
 
 Angular JS
