@@ -1,5 +1,15 @@
 # Construcción de Elementos de Software 4
 
+# Abril 17 - 19 de 2018
+
+Actividades
+
+1. Revisión practica Angular JS
+2. Revisión PPI
+3. Practiva Typescript
+4. Encuesta
+
+
 # Abril 10 de 2018
 
 ES6
