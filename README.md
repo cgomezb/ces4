@@ -7,7 +7,14 @@ Actividades
 1. Revisión practica Angular JS
 2. Revisión PPI
 3. Practiva Typescript
-4. Encuesta
+
+Typescript
+
+1. Descargar el contenido de la carpeta ces4/typescript
+- Install: npm install -g typescript
+- Compile: tsc helloworld.ts
+2. Revisar la carpeta first (Ejecutar cada una de las funciones y evaluar el resultado)
+3. Revisar la carpeta second (Ejecutar cada una de las funciones y evaluar el resultado)
 
 
 # Abril 10 de 2018
