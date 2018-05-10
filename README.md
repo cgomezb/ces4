@@ -1,5 +1,10 @@
 # Construcción de Elementos de Software 4
 
+# Mayo de 2018
+
+Angular
+https://docs.google.com/presentation/d/1ICSp2BxrjKVJZTLvJxykJT-7u9sErTNB7pfxxX4EpTk/edit?usp=drivesdk
+
 # Abril 17 - 19 de 2018
 
 Actividades
