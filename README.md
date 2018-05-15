@@ -1,5 +1,18 @@
 # Construcción de Elementos de Software 4
 
+# Mayo 17 de 2018
+
+Actividades
+
+- Revisión avance PPI
+
+# Mayo 15 de 2018
+
+Actividades
+
+- Revisión Tutorial Angular
+- Revisión practicas pendientes
+
 # Mayo de 2018
 
 Angular
