@@ -21,7 +21,9 @@ Link Lista Clientes
 - Pie de Pagina:
 
 Autores de la práctica (Nombres completos en Mayúscula - Cedula)
+
 Universidad (Nombre completo en Mayúscula)
+
 Año (2018)
 
 2. Cliente (Client)
