@@ -1,5 +1,83 @@
 # Construcción de Elementos de Software 4
 
+# Mayo 22 de 2018
+
+Practica: Angular 2+
+
+Crear un Single Page App (SPA) usando Angular 2+ teniendo en cuenta las siguientes consideraciones:
+
+0. Análisis de la solución (De forma escrita)
+
+1. Principal (Dashboard)
+
+1.1 Página principal
+
+- Encabezado (Header): Practica Angular 2+
+
+- Cuerpo (Body):
+
+Link Lista Clientes
+ 
+- Pie de Pagina:
+
+Autores de la práctica (Nombres completos en Mayúscula - Cedula)
+Universidad (Nombre completo en Mayúscula)
+Año (2018)
+
+2. Cliente (Client)
+
+Campo | Formato
+------------ | ------------- 
+Nombre* | Primera letra en mayúscula, las demás en minúscula
+Nit* | XXX.XXX.XXX - Y
+Fecha Creación*	| dd/mm/aaaa
+Representante Legal* | Mostar puntos suspensivos despues de 25 carácteres
+Dirección |
+Teléfono | 444 44 44
+Email | email@empresa.com
+Gran Contribuyente | SI / NO
+
+Requerido (*)
+
+2.1. Lista de clientes
+
+- Filtro por nombre cliente
+- Lista de cliente con ordenamiento por columnas (Nombre, Nit, Fecha Creación)
+- Lista de cliente paginada (Paginación en Front End)
+- Opción para crear un nuevo cliente
+
+Nombre | Nit | Fecha Creación | Acciones
+------------ | -------------  | ------------- | -------------
+Poli JIC | 123.456.789 - 9 | 01/01/1980 | Ver / Editar / Borrar
+	
+2.2. Detalle de cliente
+
+2.2.1 Crear
+
+Campos: Nombre, Nit, Fecha Creación, Representante Legal, Dirección, Teléfono, Email
+
+Nota: Mostrar un campo por columna, agregar validación a los campos requeridos
+
+2.2.1 Ver 
+
+Campos: Nombre, Nit, Fecha Creación, Representante Legal, Dirección, Teléfono, Email
+
+Nota: Mostrar dos campos por columna
+
+2.2.2 Editar
+
+Campos: Nombre, Nit, Fecha Creación, Representante Legal, Dirección, Teléfono, Email
+
+Nota: Mostrar dos campos por columna, agregar validación a los campos requeridos
+
+2.2.2 Borrar
+
+Mostrar un mensaje de confirmación antes de borrar un registro
+
+3. Obtener los datos a partir de un endpoint determinado
+
+Fecha máxima revisión: Mayo 31 de 2018
+
 # Mayo 17 de 2018
 
 Actividades
