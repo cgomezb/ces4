@@ -1,5 +1,26 @@
 # Construcción de Elementos de Software 4
 
+# Junio 5 de 2018
+
+Actividades
+
+# 1. Revisión avance PPI
+
+# Temas:
+- Definición y necesidad del problema
+- Presentación de objetivos
+- Delimitación y alcance
+- Mapeo Objeto Relacional
+- Define arquitectura
+- Registra fuentes bibliograficas
+- Herramientas de apoyo
+- Gramática
+- Expresión oral
+- Documentación
+- Respuesta a preguntas
+
+# 2. Revisión práctica Angular 2+
+
 # Mayo 22 de 2018
 
 Practica: Angular 2+
