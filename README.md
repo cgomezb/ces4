@@ -2,7 +2,7 @@
 
 # Junio 5 de 2018
 
-Actividades
+# Actividades
 
 # 1. Revisión avance PPI
 
