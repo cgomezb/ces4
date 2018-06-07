@@ -5,6 +5,7 @@
 # Actividades
 
 # 0. Listado de personas Módulo Sol
+Formato: https://drive.google.com/open?id=0B6tIQkZFZlRtVHZzWktKTUdMX0xIaDJUT3dSbzBZejg4YmlZ
 
 # 1. Revisión avance PPI
 
