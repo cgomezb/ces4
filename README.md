@@ -1,5 +1,11 @@
 # Construcción de Elementos de Software 4
 
+# Junio 19 de 2018 (Martes)
+
+No habrá clase este dia (Por favor avisar a los demás compañeros).
+
+Retomaremos clase el Jueves (Junio 21 de 2018).
+
 # Junio 5 de 2018
 
 # Actividades
