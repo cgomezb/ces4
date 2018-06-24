@@ -1,5 +1,15 @@
 # Construcción de Elementos de Software 4
 
+# Junio 26 de 2018 (Martes)
+
+Inicio sesión: 7 am
+
+
+Actividades:
+- Cierre curso
+
+- Publicación notas finales
+
 # Junio 21 de 2018 (Jueves)
 
 No habrá clase este dia (Por favor avisar a los demás compañeros).
