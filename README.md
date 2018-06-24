@@ -359,3 +359,6 @@ https://stackblitz.com/edit/angular-b86rbi
 
 Node JS
 https://socket.io/get-started/chat/
+
+June 26th
+https://docs.google.com/spreadsheets/d/1NOi_iPLGx5mpGk0-7m17JaNqCK7OnZqO62RtQMhTWOI/edit?usp=sharing
