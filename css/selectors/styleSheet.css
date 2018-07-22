@@ -1,0 +1,21 @@
+div {
+  color:blue;
+}
+
+.class1 {
+  color:blue;
+}
+
+#id {
+  color:blue;
+}
+
+div p {
+  color:blue;
+  text-align: center;
+}
+
+h1, h2, p {
+  color:blue;
+  text-align: center;
+}

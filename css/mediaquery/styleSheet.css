@@ -1,0 +1,10 @@
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+#grad {
+  background: linear-gradient(red, yellow);
+  height: 200px;
+}
