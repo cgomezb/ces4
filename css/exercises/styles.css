@@ -1,0 +1,108 @@
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+ }
+ p.sansserif {
+    font-family: Helvetica, Arial, sans-serif;
+ }
+ p.monospace {
+    font-family: "Courier New", Courier, monospace;
+ }
+ p.cursive {
+    font-family: Florence, cursive;
+ }
+ p.fantasy {
+    font-family: Blippo, fantasy;
+ }
+ p.small {
+    font-size: small;
+ }
+ p.medium {
+    font-size: medium;
+ }
+ p.large {
+    font-size: large;
+ }
+ p.xlarge {
+    font-size: x-large;
+ }
+ p.normal {
+    font-style: normal;
+ }
+ p.italic {
+    font-style: italic;
+ }
+ p.oblique {
+    font-style: oblique;
+ }
+ p.light {   
+    font-weight: lighter;
+ }
+ p.bold {   
+    font-weight: bold;
+ }
+ p.bolder {
+    font-weight: bolder;
+ }
+ p.normal {
+    font-variant: normal;
+ }
+ p.small {
+    font-variant: small-caps;
+ }
+ p.color {
+    color: green;
+ }
+ p.color-hex {
+    color: #0000FF;
+ }
+ p.color-rgb {
+    color: rgb(255,0,0);
+ }
+ p.left {
+    text-align: left;
+ }
+ p.right {
+    text-align: right;
+ }
+ p.center {
+    text-align: center;
+ }
+ p.justify {
+    text-align: justify;
+ }
+ td.top {
+    vertical-align: top;
+ }
+ td.middle {
+    vertical-align: middle;
+ }
+ td.bottom {
+    vertical-align: bottom;
+ }
+ span.baseline {
+    vertical-align: baseline;
+}
+span.sub {
+    vertical-align: sub;
+}
+span.super {
+    vertical-align: super;
+}
+span.pixel {
+    vertical-align: -10px;
+}
+p.none {
+    text-decoration: none;
+ }
+ p.inherit {
+    text-decoration: inherit;
+ }
+ p.overline {
+    text-decoration: overline;
+ }
+ p.underline {
+    text-decoration: underline;
+ }
+ p.line-through {
+    text-decoration: line-through;
+ }
